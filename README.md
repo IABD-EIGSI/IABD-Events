@@ -14,7 +14,6 @@ Ingénieur Data chez Direction Général des Impots marocaine & Global Council f
 
  Quelques images:  <img width="1200" height="800" alt="conf-ai-2" src="https://github.com/user-attachments/assets/a572cbf0-4ec0-41e0-8d08-f72bf8a86fdd" /> 
  
-![LOT00111](https://github.com/user-attachments/assets/13b9717a-f492-4f07-9415-48e2a4d4b450)
 
 
   
