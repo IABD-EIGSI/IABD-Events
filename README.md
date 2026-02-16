@@ -1,4 +1,4 @@
-# 📌 IABD-EIGSI-EVENTS
+# Intelligence Artificielle & Big Data — Événements, échanges et impact
 
 Bienvenue dans le répertoire **IABD-EIGSI-EVENTS**.  
 Ce dépôt a pour vocation de **centraliser, documenter et valoriser l’ensemble des événements scientifiques, techniques et industriels** organisés dans le cadre de la filière **Intelligence Artificielle & Big Data (IABD)**.
@@ -8,30 +8,11 @@ Ce dépôt a pour vocation de **centraliser, documenter et valoriser l’ensembl
 
 ---
 
-## 📅 Événements organisés
+## Événements organisés
 
-### 1️⃣ L’IA à l’épreuve des faits : entre hype médiatique, réalité industrielle et enjeux pour l’ingénieur de demain
+1. L’IA à l’épreuve des faits : entre hype médiatique, réalité industrielle et enjeux pour l’ingénieur de demain
 
-- 📍 **EIGSI Casablanca**
-- 📅 **11 février 2026**
-- 🔗 **Lien officiel :**  
-  https://www.eigsica.ma/ecole-ingenieur/lia-a-lepreuve-des-faits-entre-hype-mediatique-realite-industrielle-et-enjeux-pour-lingenieur-de-demain/
-
-Cet événement vise à proposer une lecture critique et pragmatique de l’Intelligence Artificielle, en confrontant les promesses médiatiques aux réalités industrielles, scientifiques et sociétales, tout en mettant en lumière les responsabilités et compétences attendues de l’ingénieur de demain.
-
-#### 🎙️ Intervenants
-
-- **Dr. Soufiane Hourri**  
-  Maître de Conférences HDR en Intelligence Artificielle — Université Cadi Ayyad  
-  Expert en IA générative, LLMs et systèmes industriels.
-
-- **Sofia Bourhim**  
-  Ingénieure Data — Direction Générale des Impôts (Maroc)  
-  Membre du *Global Council for Responsible AI*, spécialiste en IA responsable et Graph Machine Learning.
-
-- **Kawtar Kostani**  
-  Chief Data & AI Officer  
-  Experte en transformation Data & IA à grande échelle, avec plus de 15 ans d’expérience en data management et gouvernance des systèmes décisionnels.
+L’événement « L’IA à l’épreuve des faits », qui s’est tenu à l’EIGSI Casablanca le 11 février 2026, a proposé une lecture critique et pragmatique de l’Intelligence Artificielle, confrontant les promesses médiatiques aux réalités industrielles, scientifiques et sociétales, tout en mettant en lumière les compétences et responsabilités attendues de l’ingénieur de demain. Dr. Soufiane Hourri, Maître de Conférences HDR en Intelligence Artificielle à l’Université Cadi Ayyad et expert en IA générative, LLMs et systèmes industriels, a partagé son expertise sur les aspects scientifiques et technologiques. Sofia Bourhim, Ingénieure Data à la Direction Générale des Impôts du Maroc et membre du Global Council for Responsible AI, a présenté ses travaux sur l’IA responsable et le Graph Machine Learning. Enfin, Kawtar Kostani, Chief Data & AI Officer avec plus de quinze ans d’expérience en data management et transformation IA à grande échelle, a détaillé la gouvernance et la mise en œuvre de projets IA industriels. Le programme et les détails de l’événement sont disponibles sur le site officiel : https://www.eigsica.ma/ecole-ingenieur/lia-a-lepreuve-des-faits-entre-hype-mediatique-realite-industrielle-et-enjeux-pour-lingenieur-de-demain/
 
 ---
 <p align="center">
