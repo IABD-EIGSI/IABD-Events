@@ -2,8 +2,7 @@
 
 Ce dépôt a pour vocation de **centraliser, documenter et valoriser l’ensemble des événements scientifiques, techniques et industriels** organisés dans le cadre de la filière **Intelligence Artificielle & Big Data (IABD)**.
 
-> *La filière IABD ne se limite pas à la formation académique.  
-> Elle s’inscrit dans une vision plus large, visant à connecter étudiants, enseignants-chercheurs, experts industriels et institutions autour des grands enjeux contemporains de l’Intelligence Artificielle et de la Data.*
+> *La filière IABD ne se limite pas à la formation académique.  Elle s’inscrit dans une vision plus large, visant à connecter étudiants, enseignants-chercheurs, experts industriels et institutions autour des grands enjeux contemporains de l’Intelligence Artificielle et de la Data.*
 
 ---
 
