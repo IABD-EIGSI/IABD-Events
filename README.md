@@ -12,10 +12,10 @@ Ce dépôt a pour vocation de **centraliser, documenter et valoriser l’ensembl
 
 L’événement « L’IA à l’épreuve des faits », qui s’est tenu à l’EIGSI Casablanca le 11 février 2026, a proposé un débat entre Dr. Soufiane Hourri (Maître de Conférences HDR en IA, expert en IA générative et LLMs), Sofia Bourhim (Ingénieure Data, spécialiste en IA responsable et Graph Machine Learning) et Kawtar Kostani (Chief Data & AI Officer, experte en transformation Data & IA à grande échelle), portant sur les promesses médiatiques, les réalités industrielles et scientifiques de l’Intelligence Artificielle, ainsi que les enjeux pour l’ingénieur de demain. 
 <p align="center">
-  ![LOT00111](https://github.com/user-attachments/assets/f6075acb-99fd-4d0b-b475-9e9849c1ed4d)
- <img alt="conf-ai-2" src="https://github.com/user-attachments/assets/979ae6eb-7720-4adc-9179-69cb8d9906fe" />
-
+  <img src="https://github.com/user-attachments/assets/f6075acb-99fd-4d0b-b475-9e9849c1ed4d" alt="LOT00111" width="200" />
+  <img src="https://github.com/user-attachments/assets/979ae6eb-7720-4adc-9179-69cb8d9906fe" alt="conf-ai-2" width="200" />
 </p>
+
 ---
 
 
