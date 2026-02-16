@@ -1,4 +1,4 @@
-# Intelligence Artificielle & Big Data — Événements, échanges et impact
+# Événements, échanges et impact
 
 Ce dépôt a pour vocation de **centraliser, documenter et valoriser l’ensemble des événements scientifiques, techniques et industriels** organisés dans le cadre de la filière **Intelligence Artificielle & Big Data (IABD)**.
 
