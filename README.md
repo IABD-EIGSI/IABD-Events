@@ -24,11 +24,11 @@ Les propositions d’événements, collaborations académiques ou partenariats i
 
 **Sohaib Baroud, PhD en Informatique & IA**  
 Coordinateur de la filière IABD  
-📧 sohaib.baroud@eigsica.ma  
+📧 sohaib.baroud@eigsi.org  
 
 **Badr-Eddine Benelmostafa, Doctorant en IA**  
 Assistant Coordinateur de la filière IABD  
-📧 be.benelmostafa@eigsica.ma
+📧 be.benelmostafa@eigsi.org
 
 
 ---
